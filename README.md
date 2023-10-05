@@ -1,0 +1,1 @@
+# Earth_quake_prediction_model_using_python
